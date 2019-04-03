@@ -1,0 +1,12 @@
+## Year in college: Fourth Year  
+
+
+## Computing experience:  I have a some experience with R and have used it in previous research projects for basic statistical analysis and plotting. I also took C172 (Advanced Statistics in Ecology and Evolutionary Biology) last quarter with Noa Pinter-Wollman. I have no experience in UNIX or Python but I am excited to learn!
+
+
+## Mention a topic from biology or any other field that interest you:  I am mostly interested in marine biology, specifically community interactions and population genetics. I am working in Paul Barber's lab with Zack Gold. In particular, I work with environmental DNA (eDNA) and its use for Marine Protected Area (MPA) biodiversity monitoring. I am currently working on my Honors Thesis studying eDNA across a vertical depth gradient. Marine environments show strong vertical zonation and I want to know if sampling depth biases the communities recovered from eDNA. This work will provide insight into sampling metholodogies for eDNA use in marine ecosystems for use in a community science program in partnership with Heal the Bay's MPA Watch Program.
+
+
+## Describe what would like to do as a project for this class:  
+ 
+
