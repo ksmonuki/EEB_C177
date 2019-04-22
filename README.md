@@ -17,6 +17,24 @@ Here are several interesting facts about the blue whale:
 [Watch a video of a blue whale feeding on a mass of krill!](https://www.youtube.com/watch?v=cbxSBDopVyw)
 
 
+## Grade Duscission #1: 20/20
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Challenge - Effort | **X** | | | |
+| Challenge - Accuracy | **X** | | | |
+| Challenge - Timely Submission | **X** | | | |
+
+
+## Grade Duscission #2: 20/20
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Challenge - Effort | **X** | | | |
+| Challenge - Accuracy | **X** | | | |
+| Challenge - Timely Submission | **X** | | | |
 
 
 
